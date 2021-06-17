@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="627157d8-22c4-4cc5-a10d-776966776382" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/intro/Medidas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="627157d8-22c4-4cc5-a10d-776966776382" name="Default Changelist" comment="Criação do método calcular modo curto e calcular modo extenso">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intro_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/intro/Medidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intro/Medidas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1623707092229</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criação do método calcular modo curto e calcular modo extenso">
+      <created>1623885436655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623885436656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +83,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação do método calcular modo curto e calcular modo extenso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação do método calcular modo curto e calcular modo extenso" />
   </component>
 </project>
